@@ -1,0 +1,7 @@
+name: NoGodDamage
+version: '${version}'
+main: me.truedarklord.nogoddamage.NoGodDamage
+api-version: 1.19
+prefix: [ AntiGodDamage ]
+authors: [ TrueDarkLord ]
+description: Makes you do no damage when you are in god mode(EssentialsX) while trying to attack a mythicalMob.
